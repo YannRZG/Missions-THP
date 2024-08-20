@@ -25,21 +25,28 @@
             "ToRender": false,
             "resources": [
               { "title": "Gestion des états", "content": "Gérer les états dans un composant React." },
-              { "title": "Props en React", "content": "Passer des données entre composants." }
+              { "title": "Props en React", "content": "Passer des données entre composants." },
+              { "title": "Hooks en React", "content": "Utiliser les hooks pour gérer les états et les effets." },
+              { "title": "Context API", "content": "Gérer l'état global avec Context API." },
+              { "title": "Routing en React", "content": "Configurer le routing avec react-router." }
+
             ]
           },
           {
             "day": "Mercredi",
             "resources": [
               { "title": "Hooks en React", "content": "Utiliser les hooks pour gérer les états et les effets." },
-              { "title": "Effets de bord", "content": "Comprendre l'utilisation de useEffect." }
+              { "title": "Effets de bord", "content": "Comprendre l'utilisation de useEffect." },
+              { "title": "Optimisation des performances", "content": "Optimiser les performances des applications React." }
             ]
           },
           {
             "day": "Jeudi",
             "resources": [
               { "title": "Context API", "content": "Gérer l'état global avec Context API." },
-              { "title": "Routing en React", "content": "Configurer le routing avec react-router." }
+              { "title": "Routing en React", "content": "Configurer le routing avec react-router." },
+              { "title": "Testing en React", "content": "Écrire des tests pour les composants React." },
+              { "title": "Optimisation des performances", "content": "Optimiser les performances des applications React." }
             ]
           },
           {
