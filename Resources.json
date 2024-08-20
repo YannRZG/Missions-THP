@@ -120,6 +120,372 @@
           }
         ]
       }
+    ],
+    "Fullstack": [
+      {
+        "week": "Semaine 1",
+        "days": [
+          {
+            "day": "Lundi",
+            "resources": [
+              { "title": "Introduction au développement Fullstack", "content": "Comprendre les concepts de base du développement Fullstack." },
+              { "title": "Environnement de développement", "content": "Configurer un environnement de développement complet." }
+            ]
+          },
+          {
+            "day": "Mardi",
+            "resources": [
+              { "title": "HTML & CSS", "content": "Créer des interfaces utilisateur avec HTML & CSS." },
+              { "title": "Flexbox et Grid", "content": "Utiliser Flexbox et Grid pour des mises en page responsives." }
+            ]
+          },
+          {
+            "day": "Mercredi",
+            "resources": [
+              { "title": "JavaScript Fondamentaux", "content": "Apprendre les bases du JavaScript." },
+              { "title": "DOM Manipulation", "content": "Interagir avec le DOM en JavaScript." }
+            ]
+          },
+          {
+            "day": "Jeudi",
+            "resources": [
+              { "title": "Node.js Introduction", "content": "Comprendre les bases de Node.js." },
+              { "title": "Création d'un serveur HTTP", "content": "Créer un serveur simple avec Node.js." }
+            ]
+          },
+          {
+            "day": "Vendredi",
+            "resources": [
+              { "title": "Express.js", "content": "Utiliser Express.js pour gérer les requêtes HTTP." },
+              { "title": "Middleware en Express", "content": "Comprendre le rôle des middleware en Express.js." }
+            ]
+          }
+        ]
+      },
+      {
+        "week": "Semaine 2",
+        "days": [
+          {
+            "day": "Lundi",
+            "resources": [
+              { "title": "Base de données relationnelle", "content": "Introduction aux bases de données relationnelles." },
+              { "title": "SQL", "content": "Écrire des requêtes SQL de base." }
+            ]
+          },
+          {
+            "day": "Mardi",
+            "resources": [
+              { "title": "ORM avec Sequelize", "content": "Utiliser Sequelize pour interagir avec une base de données." },
+              { "title": "Migrations", "content": "Gérer les migrations de base de données avec Sequelize." }
+            ]
+          },
+          {
+            "day": "Mercredi",
+            "resources": [
+              { "title": "Authentification", "content": "Mettre en place une authentification utilisateur." },
+              { "title": "JWT", "content": "Utiliser JWT pour la gestion des sessions." }
+            ]
+          },
+          {
+            "day": "Jeudi",
+            "resources": [
+              { "title": "React Avancé", "content": "Approfondir les connaissances en React." },
+              { "title": "State Management avec Redux", "content": "Gérer le state global avec Redux." }
+            ]
+          },
+          {
+            "day": "Vendredi",
+            "resources": [
+              { "title": "Tests et Débogage", "content": "Écrire des tests pour les applications Fullstack." },
+              { "title": "Débogage avancé", "content": "Techniques avancées de débogage." }
+            ]
+          }
+        ]
+      },
+      {
+        "week": "Semaine 3",
+        "days": [
+          {
+            "day": "Lundi",
+            "resources": [
+              { "title": "Introduction à Docker", "content": "Découvrir Docker pour la conteneurisation." },
+              { "title": "Création de Dockerfile", "content": "Écrire des Dockerfile pour vos applications." }
+            ]
+          },
+          {
+            "day": "Mardi",
+            "resources": [
+              { "title": "Orchestration avec Docker Compose", "content": "Utiliser Docker Compose pour orchestrer plusieurs conteneurs." },
+              { "title": "Déploiement continu", "content": "Configurer un pipeline de déploiement continu avec CI/CD." }
+            ]
+          },
+          {
+            "day": "Mercredi",
+            "resources": [
+              { "title": "GraphQL avancé", "content": "Explorer les concepts avancés de GraphQL." },
+              { "title": "API REST vs GraphQL", "content": "Comparer les approches REST et GraphQL." }
+            ]
+          },
+          {
+            "day": "Jeudi",
+            "resources": [
+              { "title": "Sécurité des API", "content": "Implémenter des mesures de sécurité dans les API." },
+              { "title": "Rate Limiting et CORS", "content": "Configurer des règles de Rate Limiting et gérer CORS." }
+            ]
+          },
+          {
+            "day": "Vendredi",
+            "resources": [
+              { "title": "Projet final Fullstack", "content": "Développer un projet Fullstack complet." },
+              { "title": "Présentation du projet", "content": "Présenter et documenter le projet développé." }
+            ]
+          }
+        ]
+      }
+    ],
+    "Dev": [
+      {
+        "week": "Semaine 1",
+        "days": [
+          {
+            "day": "Lundi",
+            "resources": [
+              { "title": "Fondamentaux du Développement", "content": "Comprendre les principes de base du développement logiciel." },
+              { "title": "Outils du Développeur", "content": "Introduction aux principaux outils utilisés par les développeurs." }
+            ]
+          },
+          {
+            "day": "Mardi",
+            "resources": [
+              { "title": "Versioning avec Git", "content": "Utiliser Git pour le contrôle de version." },
+              { "title": "GitHub et GitLab", "content": "Collaborer avec d'autres développeurs sur GitHub et GitLab." }
+            ]
+          },
+          {
+            "day": "Mercredi",
+            "resources": [
+              { "title": "Programmation Orientée Objet", "content": "Apprendre les concepts de la POO." },
+              { "title": "Design Patterns", "content": "Explorer les principaux design patterns en développement." }
+            ]
+          },
+          {
+            "day": "Jeudi",
+            "resources": [
+              { "title": "Refactoring", "content": "Techniques pour améliorer le code existant." },
+              { "title": "Code Review", "content": "Comprendre l'importance des revues de code." }
+            ]
+          },
+          {
+            "day": "Vendredi",
+            "resources": [
+              { "title": "Test-Driven Development (TDD)", "content": "Introduction au développement piloté par les tests." },
+              { "title": "Tests Unitaires", "content": "Écrire des tests unitaires efficaces." }
+            ]
+          }
+        ]
+      },
+      {
+        "week": "Semaine 2",
+        "days": [
+          {
+            "day": "Lundi",
+            "resources": [
+              { "title": "Bases de données NoSQL", "content": "Introduction aux bases de données NoSQL." },
+              { "title": "MongoDB", "content": "Utiliser MongoDB pour stocker des données non structurées." }
+            ]
+          },
+          {
+            "day": "Mardi",
+            "resources": [
+              { "title": "API RESTful", "content": "Créer et consommer des API RESTful." },
+              { "title": "Sécurisation des API", "content": "Implémenter des mesures de sécurité pour les API." }
+            ]
+          },
+          {
+            "day": "Mercredi",
+            "resources": [
+              { "title": "Microservices", "content": "Introduction aux architectures microservices." },
+              { "title": "Communication entre microservices", "content": "Mettre en place la communication entre microservices." }
+            ]
+          },
+          {
+            "day": "Jeudi",
+            "resources": [
+              { "title": "CI/CD", "content": "Configurer des pipelines d'intégration et de déploiement continus." },
+              { "title": "Déploiement sur le Cloud", "content": "Déployer des applications sur les services cloud comme AWS, GCP, etc." }
+            ]
+          },
+          {
+            "day": "Vendredi",
+            "resources": [
+              { "title": "Monitorage et Logging", "content": "Mettre en place des systèmes de monitorage et de logging." },
+              { "title": "Analyse des performances", "content": "Analyser et améliorer les performances des applications." }
+            ]
+          }
+        ]
+      },
+      {
+        "week": "Semaine 3",
+        "days": [
+          {
+            "day": "Lundi",
+            "resources": [
+              { "title": "Introduction à DevOps", "content": "Découvrir les principes et pratiques DevOps." },
+              { "title": "Infrastructure as Code", "content": "Utiliser des outils comme Terraform pour gérer l'infrastructure." }
+            ]
+          },
+          {
+            "day": "Mardi",
+            "resources": [
+              { "title": "Automatisation des Tests", "content": "Automatiser les tests pour une meilleure qualité du code." },
+              { "title": "Tests de Performance", "content": "Effectuer des tests de performance sur vos applications." }
+            ]
+          },
+          {
+            "day": "Mercredi",
+            "resources": [
+              { "title": "Gestion des Événements en Temps Réel", "content": "Utiliser WebSockets et autres technologies pour les événements en temps réel." },
+              { "title": "Message Brokers", "content": "Intégrer des systèmes comme RabbitMQ pour la gestion des messages." }
+            ]
+          },
+          {
+            "day": "Jeudi",
+            "resources": [
+              { "title": "Conteneurisation avec Docker", "content": "Conteneuriser les applications avec Docker." },
+              { "title": "Orchestration avec Kubernetes", "content": "Orchestrer les conteneurs avec Kubernetes." }
+            ]
+          },
+          {
+            "day": "Vendredi",
+            "resources": [
+              { "title": "Projet Final Dev", "content": "Développer et déployer une application complète en suivant les pratiques apprises." },
+              { "title": "Présentation du Projet", "content": "Préparer et présenter le projet final." }
+            ]
+          }
+        ]
+      }
+    ],
+    "Dev++": [
+      {
+        "week": "Semaine 1",
+        "days": [
+          {
+            "day": "Lundi",
+            "resources": [
+              { "title": "Approfondissement des concepts Dev", "content": "Revue des concepts avancés abordés dans le module Dev." },
+              { "title": "Architecture Logicielle", "content": "Concevoir des architectures logicielles robustes." }
+            ]
+          },
+          {
+            "day": "Mardi",
+            "resources": [
+              { "title": "Scalabilité", "content": "Concevoir des applications scalables." },
+              { "title": "Caching", "content": "Utiliser des stratégies de caching pour améliorer les performances." }
+            ]
+          },
+          {
+            "day": "Mercredi",
+            "resources": [
+              { "title": "Sécurité Avancée", "content": "Implémenter des mesures de sécurité avancées dans les applications." },
+              { "title": "Cryptographie", "content": "Utiliser des techniques de cryptographie pour sécuriser les données." }
+            ]
+          },
+          {
+            "day": "Jeudi",
+            "resources": [
+              { "title": "Gestion des Événements Complexes", "content": "Mettre en place des architectures événementielles." },
+              { "title": "CQRS et Event Sourcing", "content": "Explorer les modèles CQRS et Event Sourcing." }
+            ]
+          },
+          {
+            "day": "Vendredi",
+            "resources": [
+              { "title": "Optimisation des Performances", "content": "Techniques avancées pour optimiser les performances des applications." },
+              { "title": "Profilage et Monitoring", "content": "Utiliser des outils de profilage et de monitoring pour diagnostiquer les problèmes." }
+            ]
+          }
+        ]
+      },
+      {
+        "week": "Semaine 2",
+        "days": [
+          {
+            "day": "Lundi",
+            "resources": [
+              { "title": "Microservices Avancés", "content": "Développer des microservices avancés et les déployer à grande échelle." },
+              { "title": "Gestion de la Résilience", "content": "Gérer la résilience et la tolérance aux pannes dans les microservices." }
+            ]
+          },
+          {
+            "day": "Mardi",
+            "resources": [
+              { "title": "Orchestration avec Kubernetes Avancé", "content": "Orchestrer des microservices avec Kubernetes." },
+              { "title": "Service Mesh", "content": "Gérer les communications entre microservices avec un service mesh." }
+            ]
+          },
+          {
+            "day": "Mercredi",
+            "resources": [
+              { "title": "Sécurité dans Kubernetes", "content": "Apprendre à sécuriser les déploiements Kubernetes." },
+              { "title": "Audit et Conformité", "content": "Mettre en place des stratégies d'audit et de conformité." }
+            ]
+          },
+          {
+            "day": "Jeudi",
+            "resources": [
+              { "title": "Observabilité", "content": "Implémenter des systèmes d'observabilité pour surveiller les microservices." },
+              { "title": "Logging et Tracing", "content": "Mettre en place du logging et du tracing distribués." }
+            ]
+          },
+          {
+            "day": "Vendredi",
+            "resources": [
+              { "title": "Projet Final Dev++", "content": "Développer un projet avancé en utilisant les concepts appris." },
+              { "title": "Présentation du Projet", "content": "Présenter le projet final et ses défis techniques." }
+            ]
+          }
+        ]
+      },
+      {
+        "week": "Semaine 3",
+        "days": [
+          {
+            "day": "Lundi",
+            "resources": [
+              { "title": "Optimisation des Bases de Données", "content": "Techniques avancées pour optimiser les performances des bases de données." },
+              { "title": "Partitionnement et Sharding", "content": "Apprendre le partitionnement et le sharding des bases de données." }
+            ]
+          },
+          {
+            "day": "Mardi",
+            "resources": [
+              { "title": "Data Warehousing", "content": "Concevoir des entrepôts de données pour le Big Data." },
+              { "title": "ETL Avancé", "content": "Mettre en place des processus ETL efficaces et optimisés." }
+            ]
+          },
+          {
+            "day": "Mercredi",
+            "resources": [
+              { "title": "Big Data", "content": "Introduction aux concepts et outils du Big Data." },
+              { "title": "Traitement Distribué", "content": "Utiliser des frameworks comme Apache Spark pour le traitement distribué." }
+            ]
+          },
+          {
+            "day": "Jeudi",
+            "resources": [
+              { "title": "Machine Learning Introduction", "content": "Comprendre les bases du Machine Learning." },
+              { "title": "Implémentation de Modèles", "content": "Développer et entraîner des modèles de Machine Learning." }
+            ]
+          },
+          {
+            "day": "Vendredi",
+            "resources": [
+              { "title": "MLOps", "content": "Automatiser le déploiement et la gestion des modèles de Machine Learning." },
+              { "title": "Présentation du Projet Final", "content": "Présenter le projet final intégrant tous les concepts Dev++." }
+            ]
+          }
+        ]
+      }
     ]
   }
   
