@@ -9,7 +9,14 @@
             "ToCorrect": false,
             "resources": [
               { "title": "Introduction à React", "content": "Comprendre les bases de React." },
-              { "title": "Composants en React", "content": "Créer et utiliser des composants." }
+              { "title": "Composants en React", "content": "Créer et utiliser des composants." },
+              { "title": "Props en React", "content": "Passer des données entre composants." },
+              { "title": "Gestion des états", "content": "Gérer les états dans un composant React." },
+              { "title": "Hooks en React", "content": "Utiliser les hooks pour gérer les états et les effets." },
+              { "title": "Context API", "content": "Gérer l'état global avec Context API." },
+              { "title": "Routing en React", "content": "Configurer le routing avec react-router." },
+              { "title": "Testing en React", "content": "Écrire des tests pour les composants React." },
+              { "title": "Optimisation des performances", "content": "Optimiser les performances des applications React." }
             ]
           },
           {
