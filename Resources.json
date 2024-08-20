@@ -1,34 +1,125 @@
 {
-    "Resources": [
-        {
-            "titre": "resources 1"
-        },
-        {
-            "titre": "resources 2"
-        },
-        {
-            "titre": "resources 3"
-            },
-        {
-            "titre": "resources 4"
-        },
-        {
-            "titre": "resources 5"
-        },
-        {
-            "titre": "resources 6"
-        },
-        {
-            "titre": "resources 7"
-        },
-        {
-            "titre": "resources 8"
-        },
-        {
-            "titre": "resources 9"
-        },
-        {
-            "titre": "resources 10"
-        }
+    "Introduction": [
+      {
+        "week": "Semaine 1",
+        "days": [
+          {
+            "day": "Lundi",
+            "resources": [
+              { "title": "Introduction à React", "content": "Comprendre les bases de React." },
+              { "title": "Composants en React", "content": "Créer et utiliser des composants." }
+            ]
+          },
+          {
+            "day": "Mardi",
+            "resources": [
+              { "title": "Gestion des états", "content": "Gérer les états dans un composant React." },
+              { "title": "Props en React", "content": "Passer des données entre composants." }
+            ]
+          },
+          {
+            "day": "Mercredi",
+            "resources": [
+              { "title": "Hooks en React", "content": "Utiliser les hooks pour gérer les états et les effets." },
+              { "title": "Effets de bord", "content": "Comprendre l'utilisation de useEffect." }
+            ]
+          },
+          {
+            "day": "Jeudi",
+            "resources": [
+              { "title": "Context API", "content": "Gérer l'état global avec Context API." },
+              { "title": "Routing en React", "content": "Configurer le routing avec react-router." }
+            ]
+          },
+          {
+            "day": "Vendredi",
+            "resources": [
+              { "title": "Testing en React", "content": "Écrire des tests pour les composants React." },
+              { "title": "Optimisation des performances", "content": "Optimiser les performances des applications React." }
+            ]
+          }
+        ]
+      },
+      {
+        "week": "Semaine 2",
+        "days": [
+          {
+            "day": "Lundi",
+            "resources": [
+              { "title": "Introduction à Redux", "content": "Comprendre les concepts de Redux." },
+              { "title": "Actions et Reducers", "content": "Utiliser les actions et reducers en Redux." }
+            ]
+          },
+          {
+            "day": "Mardi",
+            "resources": [
+              { "title": "Middleware en Redux", "content": "Utiliser les middleware comme Redux Thunk." },
+              { "title": "Connexion Redux", "content": "Connecter Redux avec les composants React." }
+            ]
+          },
+          {
+            "day": "Mercredi",
+            "resources": [
+              { "title": "Introduction à TypeScript", "content": "Comprendre les bases de TypeScript." },
+              { "title": "Types en TypeScript", "content": "Définir et utiliser les types en TypeScript." }
+            ]
+          },
+          {
+            "day": "Jeudi",
+            "resources": [
+              { "title": "Interfaces et Types", "content": "Utiliser les interfaces et types en TypeScript." },
+              { "title": "Types génériques", "content": "Créer des types génériques en TypeScript." }
+            ]
+          },
+          {
+            "day": "Vendredi",
+            "resources": [
+              { "title": "Introduction à Next.js", "content": "Découvrir le framework Next.js." },
+              { "title": "Pages et Routing", "content": "Créer des pages et configurer le routing en Next.js." }
+            ]
+          }
+        ]
+      },
+      {
+        "week": "Semaine 3",
+        "days": [
+          {
+            "day": "Lundi",
+            "resources": [
+              { "title": "Gestion des erreurs", "content": "Gérer les erreurs dans les applications React." },
+              { "title": "Utilisation de try/catch", "content": "Utiliser try/catch pour capturer les erreurs." }
+            ]
+          },
+          {
+            "day": "Mardi",
+            "resources": [
+              { "title": "Optimisation des performances en Next.js", "content": "Optimiser les performances des applications Next.js." },
+              { "title": "Déploiement avec Vercel", "content": "Déployer des applications Next.js sur Vercel." }
+            ]
+          },
+          {
+            "day": "Mercredi",
+            "resources": [
+              { "title": "Gestion de l'état avec Recoil", "content": "Utiliser Recoil pour la gestion d'état." },
+              { "title": "Atoms et Selectors", "content": "Créer et utiliser des atoms et selectors avec Recoil." }
+            ]
+          },
+          {
+            "day": "Jeudi",
+            "resources": [
+              { "title": "Introduction à GraphQL", "content": "Comprendre les concepts de GraphQL." },
+              { "title": "Création de requêtes GraphQL", "content": "Écrire des requêtes et mutations GraphQL." }
+            ]
+          },
+          {
+            "day": "Vendredi",
+            "resources": [
+              { "title": "Intégration de GraphQL avec React", "content": "Utiliser Apollo Client pour intégrer GraphQL avec React." },
+              { "title": "Caching avec Apollo", "content": "Gérer le caching des données avec Apollo Client." }
+            ]
+          }
+        ]
+      }
     ]
-}
+  }
+  
