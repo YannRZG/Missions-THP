@@ -6,6 +6,7 @@
           {
             "day": "Lundi",
             "ToRender": true,
+            "ToCorrect": false,
             "resources": [
               { "title": "Introduction à React", "content": "Comprendre les bases de React." },
               { "title": "Composants en React", "content": "Créer et utiliser des composants." }
@@ -14,6 +15,7 @@
           {
             "day": "Mardi",
             "ToCorrect": true,
+            "ToRender": false,
             "resources": [
               { "title": "Gestion des états", "content": "Gérer les états dans un composant React." },
               { "title": "Props en React", "content": "Passer des données entre composants." }
