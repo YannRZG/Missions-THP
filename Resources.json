@@ -2,6 +2,7 @@
     "Introduction": [
       {
         "week": "Semaine 1",
+        "descritption": "C'est le premier jour ! Après quelques introductions, nous allons voir comment réaliser sa première page web. Tu vas voir comment le web marche, comment coder, puis tu verras HTML et CSS, des langages qui te permettent de coder des pages web.",
         "days": [
           {
             "day": "Lundi",
@@ -60,6 +61,7 @@
       },
       {
         "week": "Semaine 2",
+        "descritption": "C'est la deuxième semaine ! Aujourd'hui, nous allons voir comment réaliser une page web avec Redux. Tu vas voir comment utiliser Redux pour gérer l'état de la page, comment écrire des actions et des reducers, et comment les utiliser dans le code.",
         "days": [
           {
             "day": "Lundi",
@@ -100,6 +102,7 @@
       },
       {
         "week": "Semaine 3",
+        "descritption": "C'est la troisième semaine ! Aujourd'hui, nous allons voir comment réaliser une page web avec GraphQL. Tu vas voir comment utiliser GraphQL pour récupérer des données, comment les utiliser dans le code, et comment les mettre en place dans le backend.",
         "days": [
           {
             "day": "Lundi",
