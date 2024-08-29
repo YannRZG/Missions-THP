@@ -22,12 +22,14 @@
               {
                 "id": "intro-1-1-3",
                 "title": "Props en React",
-                "content": "Passer des données entre composants."
+                "content": "Passer des données entre composants.",
+                "isProject": true
               },
               {
                 "id": "intro-1-1-4",
                 "title": "Gestion des états",
-                "content": "Gérer les états dans un composant React."
+                "content": "Gérer les états dans un composant React.",
+                "isProject": true
               },
               {
                 "id": "intro-1-1-5",
@@ -85,7 +87,8 @@
               {
                 "id": "intro-1-2-5",
                 "title": "Routing en React",
-                "content": "Configurer le routing avec react-router."
+                "content": "Configurer le routing avec react-router.",
+                "isProject": true
               }
             ]
           },
@@ -106,7 +109,8 @@
               {
                 "id": "intro-1-3-3",
                 "title": "Optimisation des performances",
-                "content": "Optimiser les performances des applications React."
+                "content": "Optimiser les performances des applications React.",
+                "isProject": true
               }
             ]
           },
