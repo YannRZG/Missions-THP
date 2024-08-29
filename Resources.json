@@ -85,7 +85,8 @@
               {
                 "id": "intro-1-2-5",
                 "title": "Routing en React",
-                "content": "Configurer le routing avec react-router."
+                "content": "Configurer le routing avec react-router.",
+                "isProject": true
               }
             ]
           },
@@ -106,7 +107,8 @@
               {
                 "id": "intro-1-3-3",
                 "title": "Optimisation des performances",
-                "content": "Optimiser les performances des applications React."
+                "content": "Optimiser les performances des applications React.",
+                "isProject": true
               }
             ]
           },
